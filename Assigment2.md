@@ -1,2 +1,0 @@
-# BArellanoIntro
-Assignment2
