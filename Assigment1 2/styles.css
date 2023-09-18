@@ -1,0 +1,15 @@
+
+body{
+    text-align: left;
+}
+p1{
+    text-decoration: underline;
+}
+p2{
+    background-color:orange;
+    color: black;
+}
+p3{
+    font-weight: bold;
+    color: red;
+}
